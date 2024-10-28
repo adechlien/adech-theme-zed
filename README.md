@@ -2,24 +2,23 @@
 
 Inspired by **cold colors**, it comes a theme for coding at night, with rain in the background.
 
-![Screenshot](images/screenshot-1.png)
-![Screenshot](images/screenshot-2.png)
+<img src="images/screenshot-1.png" alt="screenshot 1" width="540"/>
+<img src="images/screenshot-2.png" alt="screenshot 2" width="540"/>
 
 ### Pallettes
 #### Interface colors
-![Screenshot](images/interface-colors.png)
+<img src="images/interface-colors.png" alt="interface colors" width="360"/>
 
 #### Syntax colors
-![Screenshot](images/syntax-colors.png)
+<img src="images/syntax-colors.png" alt="syntax colors" width="360"/>
 
 #### Terminal colors
-![Screenshot](images/terminal-colors.png)
+<img src="images/terminal-colors.png" alt="terminal colors" width="360"/>
 
 ## Installation and Use
-Sadly, **Adech Theme** is not yet available in Zed Extensions.
+Sadly, **Adech Theme** is not yet available in Zed Extensions .
 
 Until then, you can install it by downloading the `adech.json` in the `.config/zed/themes` and activate it in the `Themes Options`.
 
 ## How to contribute
-Everyone is free to fork, make changes and fix issues.
->>>>>>> c101e5faebd7d88f6d1983d54c55822e2a3a5d33
+Everyone is free to fork, make changes and fix issues 😄.
