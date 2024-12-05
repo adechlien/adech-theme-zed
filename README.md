@@ -1,24 +1,26 @@
 # Adech Theme for Zed Editor
 
-Inspired by **cold colors**, it comes a theme for coding at night, with rain in the background.
+Inspired by loneliness and using cold colors, Adech theme was created to remember us the matter of an individual that doesn't depends on external things. To think about our nature, what we are and the things we cannot explain, but accept.
 
-<img src="images/screenshot-1.png" alt="screenshot 1" width="540"/>
-<img src="images/screenshot-2.png" alt="screenshot 2" width="540"/>
+<img src="images/screenshot-2.png" alt="screenshot 2" width="620"/>
 
-### Pallettes
+## Scheme
 #### Interface colors
-<img src="images/interface-colors.png" alt="interface colors" width="360"/>
+<img src="images/palette-swamp.png" alt="interface colors" width="360"/>
 
 #### Syntax colors
-<img src="images/syntax-colors.png" alt="syntax colors" width="360"/>
+<img src="images/palette-reverie.png" alt="syntax colors" width="360"/>
+<img src="images/palette-lush.png" alt="syntax colors" width="360"/>
 
-#### Terminal colors
-<img src="images/terminal-colors.png" alt="terminal colors" width="360"/>
+#### Other versions
+Adech Theme still has its first version, now called **Adech Theme Legacy**.
+
+<img src="images/screenshot-1.png" alt="screenshot 1" width="620"/>
 
 ## Installation and Use
-Sadly, **Adech Theme** is not yet available in Zed Extensions .
+**Adech Theme** is already available in Zed Extensions.
 
-Until then, you can install it by downloading the `adech.json` in the `.config/zed/themes` and activate it in the `Themes Options`.
+To install it, just go to Zed Editor > Extensions > Adech Theme.
 
 ## How to contribute
 Everyone is free to fork, make changes and fix issues 😄.

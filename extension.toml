@@ -1,7 +1,7 @@
 id = "adech"
 name = "Adech Theme"
 schema_version = 1
-version = "0.0.1"
+version = "2.0.0"
 authors = ["Alejandro Polo <alejandrohernandezpolo@gmail.com>"]
-description = "Kind of my style theme for Zed"
-repository = "https://github.com/Adechlien/adech-theme"
+description = "Inspired by loneliness and using cold colors, Adech theme was created to remember us the matter of an individual that doesn't depends on external things. To think about our nature, what we are and the things we cannot explain, but accept."
+repository = "https://github.com/Adechlien/adech-theme-zed"
