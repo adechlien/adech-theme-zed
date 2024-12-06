@@ -6,11 +6,11 @@ Inspired by loneliness and using cold colors, Adech theme was created to remembe
 
 ## Scheme
 #### Interface colors
-<img src="images/palette-swamp.png" alt="interface colors" width="360"/>
+<img src="images/palette-swamp.svg" alt="interface colors" width="360"/>
 
 #### Syntax colors
-<img src="images/palette-reverie.png" alt="syntax colors" width="360"/>
-<img src="images/palette-lush.png" alt="syntax colors" width="360"/>
+<img src="images/palette-reverie.svg" alt="syntax colors" width="360"/>
+<img src="images/palette-lush.svg" alt="syntax colors" width="360"/>
 
 #### Other versions
 Adech Theme still has its first version, now called **Adech Theme Legacy**.
