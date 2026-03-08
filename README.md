@@ -1,26 +1,75 @@
-# Adech Theme for Zed Editor
+# Adech for Zed
 
-Inspired by loneliness and using cold colors, Adech theme was created to remember us the matter of an individual that doesn't depends on external things. To think about our nature, what we are and the things we cannot explain, but accept.
+Adech Theme is a lonely and introspective theme collection for Zed Editor, built around dark surfaces, soft contrast, and calm syntax colors.
 
-<img src="images/screenshot-2.png" alt="screenshot 2" width="620"/>
+The extension currently includes:
 
-## Scheme
-#### Interface colors
-<img src="images/palette-swamp.svg" alt="interface colors" width="360"/>
+- **Adech Legacy**
+- **Adech Superior**
 
-#### Syntax colors
-<img src="images/palette-reverie.svg" alt="syntax colors" width="360"/>
-<img src="images/palette-lush.svg" alt="syntax colors" width="360"/>
+## Themes
 
-#### Other versions
-Adech Theme still has its first version, now called **Adech Theme Legacy**.
+### Adech Legacy
+The original version of Adech Theme, kept as part of the collection.
 
-<img src="images/screenshot-1.png" alt="screenshot 1" width="620"/>
+<img src="images/screenshot-1.png" alt="Adech Legacy" width="620"/>
 
-## Installation and Use
-**Adech Theme** is already available in Zed Extensions.
+### Adech Superior
+A refined dark theme built from the **Swamp**, **Boulevard**, and **Venomous** palettes, plus a small semantic contract for editor states.
 
-To install it, just go to Zed Editor > Extensions > Adech Theme.
+- **Swamp** defines the main editor surfaces
+- **Boulevard** drives focus, readability, and interface clarity
+- **Venomous** adds expression to syntax and accents
 
-## How to contribute
-Everyone is free to fork, make changes and fix issues 😄.
+## Color Structure
+
+### Core palettes
+#### Boulevard
+<img src="images/boulevard.svg" alt="Boulevard palette" width="360"/>
+
+#### Venomous
+<img src="images/venomous.svg" alt="Venomous palette" width="360"/>
+
+#### Swamp
+<img src="images/swamp.svg" alt="Swamp palette" width="360"/>
+
+### Contract palettes
+#### Sunny
+<img src="images/sunny.svg" alt="Sunny palette" width="360"/>
+
+#### void
+<img src="images/void.svg" alt="Void palette" width="360"/>
+
+
+## Installation
+
+**Adech Theme** is available in Zed Extensions.
+
+To install it:
+
+1. Open **Zed**
+2. Go to **Extensions**
+3. Search for **Adech Theme**
+4. Install the extension
+5. Select **Adech Theme Superior** or **Adech Theme Legacy** from the theme picker
+
+## Usage
+
+After installing the extension, open the theme picker in Zed and choose the variant you want to use.
+
+Available themes currently include:
+
+- **Adech Theme Superior**
+- **Adech Theme Legacy**
+
+## Repository
+
+This repository contains the source for the Adech Theme extension for Zed Editor.
+
+## Contributing
+
+Everyone is welcome to fork the project, suggest improvements, and fix issues.
+
+## License
+
+MIT
