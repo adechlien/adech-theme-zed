@@ -73,3 +73,10 @@ Everyone is welcome to fork the project, suggest improvements, and fix issues.
 ## License
 
 MIT
+
+## Generated themes
+
+`themes/adech.json` is generated from the canonical tokens, semantic roles and
+workspace adapters in ../adech/src/branches/. Edit that source and run
+`npm run sync:workspaces` in ../adech. Both Superior and Legacy are also exported
+in `@adech/themes` as CSS, JSON, Tailwind v3/v4 and workspace JSON.
